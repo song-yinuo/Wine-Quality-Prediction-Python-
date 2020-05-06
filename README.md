@@ -1,1 +1,2 @@
-# Wine-Quality-Prediction-Python-
+# Wine Quality Prediction (Python)
+# Machine Learning Model by Neural Network and SVM 
